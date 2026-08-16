@@ -2,7 +2,8 @@
 
 Analysis of **7.7M U.S. domestic flights in 2025** using real Bureau of Transportation Statistics (BTS) data, built to identify where airline delays concentrate, what drives them, and what a business would prioritize to reduce them.
 
-**[PDF export](US_Flight_Delay_Analysis_2025.pdf)** — static page-by-page view of the full report
+**[PDF export](US_Flight_Delay_Analysis_2025.pdf)** - static page-by-page view of the full report
+**[Executive Overview dashboard](Dashboard_Preview.png)** 
 PBIX file available on request 
 
 ---
