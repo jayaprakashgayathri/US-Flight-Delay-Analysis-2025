@@ -2,7 +2,7 @@
 
 Analysis of **7.7M U.S. domestic flights in 2025** using real Bureau of Transportation Statistics (BTS) data, built to identify where airline delays concentrate, what drives them, and what a business would prioritize to reduce them.
 
-** .** — static page-by-page view of the full report
+**[PDF export](US_Flight_Delay_Analysis_2025.pdf)** — static page-by-page view of the full report
 PBIX file available on request 
 
 ---
@@ -61,7 +61,3 @@ This analysis surfaces **associations and patterns**, not proven causes. BTS dat
 ## Tools
 
 Power BI Desktop · Power Query (M) · DAX · BTS public flight data
-
-## Related
-
-This is the second project in a small portfolio series — the first, a Chicago Airbnb pricing analysis, was built in Excel and is available [here](#).
